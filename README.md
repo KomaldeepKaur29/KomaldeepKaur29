@@ -1,8 +1,8 @@
 ## Hello Everyone👋! Komal Deep Kaur Here!
-
+<!--
 **KomaldeepKaur29/KomaldeepKaur29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!--
+**Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Machine Learning and Deep Learning concepts.
 - 🌱 I’m currently learning deploying end to end Machine Learning and Deep Learning project.
